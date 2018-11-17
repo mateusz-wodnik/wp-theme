@@ -1,0 +1,9 @@
+{
+  "name": "wp-theme",
+  "version": "1.0.0",
+  "description": "Wordpress theme development",
+  "main": "index.js",
+  "repository": "https://github.com/mateusz-wodnik/wp-theme.git",
+  "author": "Mateusz Wodnik",
+  "license": "MIT"
+}
